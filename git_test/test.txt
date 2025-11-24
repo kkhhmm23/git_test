@@ -1,6 +1,9 @@
 dddd
 hi -> main이 수정
-thanks
 heeeeeeem
 hmmm
+<<<<<<< HEAD
 로컬 저장소에서 수정
+=======
+github에서 수정
+>>>>>>> refs/remotes/origin/main
